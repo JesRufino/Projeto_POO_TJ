@@ -8,7 +8,7 @@ public class Produto {
     private String descricao;
     /*
     private String imgProd;
-    Sugest„o de usar imagem atraves da referencia de string.
+    Sugest√£o de usar imagem atraves da referencia de string.
      */
     private Double preco;
 
@@ -27,7 +27,7 @@ public class Produto {
     }
 
     public String getNome() {
-        return nome;
+        return this.nome;
     }
 
     public double getPreco(){
