@@ -5,6 +5,6 @@
     <string name="hintNomeProd">Nome do Produto</string>
     <string name="hintPreco">Preco do Produto</string>
     <string name="hintDesc">Descricao do Produto</string>
-    <string name="hintQtd">Descricao do Produto</string>
-    <string name="action_settings">Settings</string>
+    <string name="hintQtd">Quantidade do Produto</string>
+    <string name="action_settings">Calma ae</string>
 </resources>
